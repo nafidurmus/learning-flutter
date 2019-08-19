@@ -9,7 +9,7 @@ Flutter nedir ? neden kullanılır ? nasıl kurulum yapılır ?
 
 Şimdiye kadar hep **web programlama**yla uğraştım. Kendimi biraz da mobil programlamada geliştirmek istiyordum. Araştırmaya başladım hangi dillerde kendimi geliştirebilirim.
 
-![](https://cdn-images-1.medium.com/max/800/1*-3MC_-uS_jmSI2Y5Sxk9HA.png)
+![](https://cdn-images-1.medium.com/max/700/1*tUuX5QZdPAowV7TVgHOPrA.png)
 
 Bu programlama dilleri arasından **Flutter** öğrenmeye karar verdim.
 
